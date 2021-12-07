@@ -1,0 +1,26 @@
+.shape {
+ 
+    background-color: #3a0a1d;
+ 
+    width: 1896px;
+    height: 372px;
+ 
+  }
+  .text {
+   
+    color: white;
+    font-size: xx-large;
+  }
+  i {
+    background-color:orange;
+    border-radius: 100%;
+   border: 1px solid grey;
+    padding: 10px;
+  }
+  .dot {
+    height: 25px;
+    width: 25px;
+    background-color: #f0bd01;
+    border-radius: 50%;
+    display: inline-block;
+  }
